@@ -14,7 +14,7 @@ A partir daqui é com você, use a sua criatividade para consumir a api.
 
 Para te ajudar nesse desafio, criamos para você um modelo que você deve utilizar como um template do Github.
 
-O template está disponível na seguinte url: **[Acessar Template](https://github.com/moriuriel/desafio-backend-brain8)**
+O template está disponível na seguinte url: **[Acessar Template](https://github.com/moriuriel/template-desafio-frontend)**
 
 Agora navegue até a pasta criada e abra no Vs Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências.
 
